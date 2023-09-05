@@ -39,4 +39,24 @@ Sports are very important for the physical and mental development of a person. T
 
 > Chance only favors the prepared mind - *Louis Pasteur*
 
+***
 
+#### Code Fencing
+
+> What is the right way to add class in markdown on code fences
+
+<https://stackoverflow.com/questions/63323343/what-is-the-right-way-to-add-class-in-markdown-on-code-fences>
+
+###### Strip HTML Tags in JavaScript
+```
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+```
+<https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
