@@ -18,3 +18,18 @@ Hyderabad is known as **The City of Pearls**, as once it was the only **global c
 * Tea and Dosa
 
 Click [here](MyStats.md) to open MyStats.md file
+
+***
+#### Sports Table
+
+Sports are very important for the physical and mental development of a person. They have several positive effects like, increased blood flow, improved concentration and thinking ability. Sports also improves the personality of people.
+
+
+| Name | reason | Average hours in a week |
+| --- | --- | --- |
+| Soccer | strength and endurance | 15 |
+| Swimming |  mental Strength | 15 |
+| Baseball | Cardiovascular fitness | 20 |
+| Cricket |  Focus | 20 |
+
+
