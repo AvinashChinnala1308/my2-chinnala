@@ -16,3 +16,5 @@ Hyderabad is known as **The City of Pearls**, as once it was the only **global c
 * Hyderabadi Biryani
 * Karachi Biscuits
 * Tea and Dosa
+
+Click [here](MyStats.md) to open MyStats.md file
