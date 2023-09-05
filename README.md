@@ -33,3 +33,10 @@ Sports are very important for the physical and mental development of a person. T
 | Cricket |  Focus | 20 |
 
 
+***
+#### Quotes
+> Somewhere, something incredible is waiting to be known - *Carl Sagan*
+
+> Chance only favors the prepared mind - *Louis Pasteur*
+
+
